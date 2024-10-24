@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Alfred Kirsch
 description: |
-    PhD student in Mathematics,
-    CERMICS - École des Ponts and Inria Paris,
-    alfred.kirsch at enpc.fr,
+    PhD student in Mathematics, \n
+    CERMICS - École des Ponts and Inria Paris, \n
+    alfred.kirsch at enpc.fr, \n
     <a href="https://alfred-kirsch.github.io">Home</a> | <a href="https://alfred-kirsch.github.io/research">Research</a> | <a href="https://alfred-kirsch.github.io/teaching">Teaching</a>
 github:
     is_user_page: false
