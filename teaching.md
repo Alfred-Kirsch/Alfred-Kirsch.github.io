@@ -1,5 +1,6 @@
-# Teaching, Students
+# Teaching & Students
 ## Teaching
+I have been involved in various teachings at École des Ponts, for which I have written original exams, homeworks and exercices (in French). Feel free to contact me if you are interested !
 ### École des Ponts
 - **2021-2024: "Introduction to Quantum Physics"**, math. oriented lectures and exercice sessions (w. [É. Cancès](https://cermics.enpc.fr/~cances/), [L. Brochard](https://navier-lab.fr/equipe/brochard-laurent/), [A. Lemaitre](https://navier-lab.fr/equipe/brochard-laurent/)).
 - **2023-2024: "Electrons in crystals"**, phys. oriented, lectures and exercice sessions (new course, self-organised).
