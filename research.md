@@ -11,7 +11,7 @@ The purpose of these methods is to alleviate the curse of dimensionality associa
 
 ## Preprints
 
-- Cancès, É., Kirsch, A., & Perrin-Roussel, S. (2024). A mathematical analysis of IPT-DMFT. arXiv preprint [arXiv:2406.03384](https://arxiv.org/abs/2305.16472).
+- Cancès, É., Kirsch, A., & Perrin-Roussel, S. (2024). A mathematical analysis of IPT-DMFT. arXiv preprint [arXiv:2406.03384](https://arxiv.org/abs/2406.03384).
 - Cancès, E., Faulstich, F. M., Kirsch, A., Letournel, E., & Levitt, A. (2023). Some mathematical insights on density matrix embedding theory. arXiv preprint [arXiv:2305.16472](https://arxiv.org/abs/2305.16472).
 
 ## Publications
