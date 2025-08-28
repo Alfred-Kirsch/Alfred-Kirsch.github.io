@@ -11,9 +11,10 @@ The purpose of these methods is to alleviate the curse of dimensionality associa
 
 ## Preprints
 
-- Cancès, É., Kirsch, A., & Perrin-Roussel, S. (2024). A mathematical analysis of IPT-DMFT. arXiv preprint [arXiv:2406.03384](https://arxiv.org/abs/2406.03384).
-- Cancès, É., Faulstich, F. M., Kirsch, A., Letournel, E., & Levitt, A. (2023). Some mathematical insights on density matrix embedding theory. arXiv preprint [arXiv:2305.16472](https://arxiv.org/abs/2305.16472), accepted in Communications in Pure and Applied Mathematics (CPAM).
+- Cances, É., Kirsch, A., & Perrin-Roussel, S. (2025). A mathematical analysis of the discretized IPT-DMFT equations. arXiv preprint [arxiv:2505.21287](https://doi.org/10.48550/arXiv.2505.21287).
+- Cancès, É., Kirsch, A., & Perrin-Roussel, S. (2024). A mathematical analysis of IPT-DMFT. arXiv preprint [arXiv:2406.03384](https://arxiv.org/abs/2406.03384), reviewing process in Communications in Mathematical Physics.
 
 ## Publications
 
+- Cancès, É., Faulstich, F.M., Kirsch, A., Letournel, E. and Levitt, A. (2025), Analysis of density matrix embedding theory around the non-interacting limit. [Comm. Pure Appl. Math., 78: 1359-1410](https://doi.org/10.1002/cpa.22244) ([preprint](https://arxiv.org/abs/2305.16472)). 
 - Schäfer, T., Wentzell, N., Šimkovic IV, F., He, Y. Y., Hille, C., Klett, M., ... & Georges, A. (2021). Tracking the footprints of spin fluctuations: A multimethod, multimessenger study of the two-dimensional Hubbard model. [Physical Review X, 11(1), 011058](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011058).
