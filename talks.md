@@ -1,6 +1,6 @@
 # Talks
 
-Between 2021 and 2025, I co-organized the [Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/) at CERMICS.
+From 2021 to 2025, I co-organized the [Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/) at CERMICS.
 
 ## Invited Talks
 - **02/2025, [UCBerkeley/LBNL Applied Mathematics Seminar](https://berkeleyams.lbl.gov/spring25/kirsch.html)**: "An (Applied) Mathematical Analysis of Dynamical Mean-Field Theory".
