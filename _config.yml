@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: assets/logo.jpeg
 title: Alfred Kirsch
-description: <h3><a href="https://alfred-kirsch.github.io/research">Research</a> | <a href="https://alfred-kirsch.github.io/talks"> Talks </a> </h3><h3><a href="https://alfred-kirsch.github.io/teaching">Teaching & Students</a></h3> Postdoc in Mathematics,<br> <a href="https://www.math.cit.tum.de/math/forschung/gruppen/analysis/">Chair of Analysis, TUM</a>(Munich),<br>&#x1F4E7; alfred.kirsch at tum.de<br>&#x1F4CB; <a href="https://alfred-kirsch.github.io/assets/cv.pdf"> Resume (CV)</a> <br> <a href="https://orcid.org/0000-0002-4477-2446"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> ORCID </a>
+description: <h3><a href="https://alfred-kirsch.github.io/research">Research</a> | <a href="https://alfred-kirsch.github.io/talks"> Talks </a> </h3><h3><a href="https://alfred-kirsch.github.io/teaching">Teaching & Students</a></h3> Postdoc in Mathematics,<br> <a href="https://www.math.cit.tum.de/math/forschung/gruppen/analysis/">Chair of Analysis, TUM</a>(Munich),<br>&#x1F4E7; alfred.kirsch at tum.de<br>&#x1F4CB; <a href="https://alfred-kirsch.github.io/assets/cv.pdf"> Resume (CV)</a> <br> <a href="https://orcid.org/0000-0002-4477-2446">ORCID</a>
 github:
     is_user_page: false
     is_project_page: false
