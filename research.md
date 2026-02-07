@@ -12,7 +12,7 @@ The purpose of these methods is to alleviate the curse of dimensionality associa
 ## Preprints
 
 - Cances, É., Kirsch, A., & Perrin-Roussel, S. (2025). A mathematical analysis of the discretized IPT-DMFT equations. arXiv preprint [arxiv:2505.21287](https://doi.org/10.48550/arXiv.2505.21287).
-- Cancès, É., Kirsch, A., & Perrin-Roussel, S. (2024). A mathematical analysis of IPT-DMFT. arXiv preprint [arXiv:2406.03384](https://arxiv.org/abs/2406.03384), reviewing process in Communications in Mathematical Physics.
+- Cancès, É., Kirsch, A., & Perrin-Roussel, S. (2024). A mathematical analysis of IPT-DMFT. arXiv preprint [arXiv:2406.03384](https://arxiv.org/abs/2406.03384), submitted.
 
 ## Publications
 
